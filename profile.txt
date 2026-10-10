@@ -1,0 +1,11 @@
+My name is Rahul.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a Principle AI engineer.
+I'm especially interested in automation, infrastructure as code, machine learning.
+
+I have experience with Python, JavaScript, AWS, Docker.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy cooking, reading mythology novels.
+A fun fact about me is I am trying to be disciplined and trying to find an alternate way of income from my skills.
