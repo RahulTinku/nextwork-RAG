@@ -8,6 +8,7 @@ __pycache__/
 
 # Chroma database
 db/
+chroma_db/
 
 # IDE
 .vscode/
