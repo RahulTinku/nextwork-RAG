@@ -7,7 +7,8 @@ chroma = chromadb.PersistentClient(path="./db")
 collection = chroma.get_or_create_collection("docs")
 
 # This is the line that points to your Mac!
-ollama_client = ollama.Client(host="http://host.docker.internal:11434")
+# ollama_client = ollama.Client(host="http://host.docker.internal:11434")
+ollama_client = ollama.Client(host="http://localhost:11434")
 
 @app.post("/query")
 def query(q: str = Query(..., description="Query the RAG API")):
